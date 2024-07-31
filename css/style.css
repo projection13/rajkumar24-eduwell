@@ -1,0 +1,1384 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.headerimg{
+  background: url(../images/header-bg.png) no-repeat;
+  background-size: contain;
+  height: 120px;
+  position: relative;
+}
+.headerimg .logo{
+  background: url(../images/templatemo-eduwell.png) no-repeat;
+  background-size: contain;
+  width: 200px;
+  height: 60px;
+  position: absolute;
+  top: 25px;
+  left: 100px;
+}
+.headerimg .navbar{
+  width: 750px;
+  font-size: 23px;
+  position: absolute;
+  top: 15px;
+  right: 90px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.content-1{
+  width: 400px;
+  position:relative;
+  top: 50px;
+  left: 100px;
+  font-size: 1.6rem;
+}
+.span-1{
+  color: rgb(230,91,230);
+}
+.spanone{
+  color: rgb(230,91,230);
+}
+.btn-1{
+border: none;
+background: linear-gradient(to left ,rgb(230, 91, 230),orange );
+padding: 10px;
+color: white;
+border-radius: 5px;
+}
+.girlimg{
+  background: url(../images/banner-right-image.png) no-repeat;
+  background-size: contain;
+  width: 350px;
+  height: 360px;
+  position: relative;
+  top: -300px;
+  left: 1150px;
+}
+.services{
+  width: 400px;
+  position:relative;
+  top: -230px;
+  left: 630px;
+  font-size: 1.6rem;
+  text-align: center; 
+}
+.halfcircle{
+  background: url(../images/banner-left-dec.png) no-repeat;
+  background-size: contain;
+  width: 200px;
+  height: 400px;
+  position: relative;
+  top: -150px;
+}
+.cards{
+  position: relative;
+  font-size: 1.1rem;
+  top: -500px;
+  left: 200px;
+  width: 1330px;
+  height: 285px;
+  display: flex;
+  justify-content: space-around; 
+}
+.cards .cardone{
+  text-align: center;
+  width: 300px; 
+  height: 285px;  
+}
+.cards .cardone .cardoneimg{
+  background: url(../images/service-icon-04.png) no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 200px;
+  height: 150px;
+  position: relative;
+  left: 50px;
+}
+.cards .cardtwo{
+  text-align: center;
+  width: 300px;
+  height: 285px;
+}
+.cards .cardtwo .cardtwoimg{
+  background: url(../images/service-icon-03.png) no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 200px;
+  height: 150px;
+  position: relative;
+  left: 50px;
+}
+.cards .cardthree{
+  text-align: center;
+  width: 300px;
+  height: 285px;
+}
+.cards .cardthree .cardthreeimg{
+  background: url(../images/service-icon-01.png) no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 200px;
+  height: 150px;
+  position: relative;
+  left: 50px;
+}
+.cards .cardfour{
+  text-align: center;
+  width: 300px;
+  height: 285px;
+}
+.cards .cardfour .cardfourimg{
+  background: url(../images/service-icon-02.png) no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 200px;
+  height: 150px;
+  position: relative;
+  left: 50px;
+}
+.teengola{
+  display: flex;
+  flex-flow: space-around nowrap;
+  position: absolute;
+  top: 1300px;
+  left: 830px;
+}
+.teengola1{
+background:rgb(230, 91, 230);
+width: 10px;
+height: 10px;
+border-radius: 50%;
+}
+.teengola2{
+background:gray;
+position: relative;
+left: 10px;
+width: 10px;
+height: 10px;
+border-radius: 50%;
+}
+.teengola3{
+background:gray;
+position: relative;
+left: 20px;
+width: 10px;
+height: 10px;
+border-radius: 50%;
+}
+.dogola{
+  width: 400px;
+  height: 300px;
+  position: relative;
+  top: -300px;
+  left: 30px;
+}
+.dogola .pehlagolaimg{
+  background: url(../images/our-courses-left-dec.png) no-repeat;
+  background-size: contain;
+  height: 300px;
+}
+.dogolatwo{
+  width: 400px;
+  height: 300px;
+  position: relative;
+  top: -600px;
+  left: 1220px;
+}
+.dogolatwo .dusragolaimg{
+  background: url(../images/our-courses-right-dec.png) no-repeat;
+  background-size: contain;
+  height: 300px;
+}
+.contentpagetwo{
+  text-align: center;
+  font-size: 1.6rem;
+  position: relative;
+  top: -600px;
+}
+.coursedisc{
+  color: black;
+  position: absolute;
+  top: 2050px;
+  left: 150px;
+}
+.coursedisc h3{
+   display: inline-block;
+   border:5px groove rgba(230, 91, 230,0.5);
+   border-radius: 5px;
+   width: 200px;
+   height: 15px;
+   padding: 20px;
+   padding-top: 10px;
+   text-align: center;
+}
+.needcolor:hover{
+   color: rgb(230, 91, 230);
+   display: inline-block;
+   border:5px groove rgba(230, 91, 230,0.8);
+   scale: 1.5;
+}
+.courseimg {
+  width: 300px;
+  height: 40vh;
+  position: absolute;
+  top: 2080px;
+  left: 550px;
+  left: 50;
+}
+.courseimg .courseimgg{
+  background: url(../images/courses-01.jpg) no-repeat;
+  background-size: cover;
+  height: 40vh;
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
+}
+.price{
+  width: 80px;
+  text-align: center;
+  position: absolute;
+  top: 2080px;
+  left: 570px;
+}
+.price .price1{
+  color: white;
+  padding: 15px;
+  background: linear-gradient(to bottom ,rgb(230, 91, 230),orange );
+}
+.mindisc .spanthree{
+  color: cyan;
+}
+.mindisc{
+  color: black;
+  position: absolute;
+  font-size: 1.2rem;
+  top: 2070px;
+  left: 1020px;
+  width: 600px;
+}
+.headings h5{
+  display: inline-block;
+  width: 85px;
+  padding-left: 10px;
+}
+.headings .headingek{
+  border-right:3px solid black ;
+}
+.headings .headingdo{
+  border-right:3px solid black ;
+}
+.headings .headingteen{
+  display: inline-block;
+  width: 100px;
+  padding-left: 20px;
+}
+.headings .headingchar{
+  display: block;
+  color: rgb(230, 91, 230);
+  text-decoration: underline;
+  padding-left: 0px;
+  width: 120px;
+}
+.gradientimg{
+  height: 100vh;
+  position: relative;
+  top: -50px;
+}
+.gradientimg .gradiimg{
+  background: url(../images/cta-bg.png) no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 1610px;
+  height: 100vh;
+}
+.imgingradient{
+  height: 70vh;
+  width: 500px;
+  position: relative;
+  top: -690px;
+  left: 250px;
+}
+.imgingradient .imgten{
+  background: url(../images/cta-left-image.png) no-repeat;
+  background-size: cover;
+  height: 70vh;
+  width: 500px;
+}
+.gradientimg .mincontentone{
+  color: white;
+  position: absolute;
+  right: 190px;
+  left: 890px;
+  top: 100px;
+  font-size: 2.3rem;
+} 
+.gradientimg .mincontentone .headedit{
+  font-size: 50px;
+}
+.gradientimg .mincontentone .btn2{
+  border: 0px;
+  padding: 15px;
+  background:white;
+  color: rgb(230, 91, 230);
+} 
+.thirdpageimg{
+  height: 40vh;
+}
+.thirdpageimg .testimg{
+ background: url(../images/testimonials-left-dec.png) no-repeat;
+ background-size: cover;
+ height: 40vh;
+ width: 600px;
+}
+.thirdpage{
+  font-size: 1.6rem;
+  position: absolute;
+  text-align: center;
+  left: 600px;
+  top: 3600px;
+  width: 400px;
+}
+.teencontainer{
+  width: 1300px;
+  height: 200px;
+  font-size: 1.2rem;
+  position: relative;
+  top: 150px;
+  left: 150px;
+  display: flex;
+  justify-content: space-around;
+}
+.teencontainer .containerone{
+  color: black;
+  width: 350px;
+  height: 200px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+.teencontainer .containerone .quoteimg1{
+  background: url(../images/quote.png) no-repeat;
+  background-size: contain;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: -100px;
+  left: 250px;
+}
+.teencontainer .containertwo{
+  color: black;
+  width: 350px;
+  height: 200px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+.teencontainer .containertwo .quoteimg2{
+  background: url(../images/quote.png) no-repeat;
+  background-size: contain;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: -100px;
+  left: 250px;
+}
+.teencontainer .containerthree{
+  color: black;
+  width: 350px;
+  height: 200px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+.teencontainer .containerthree .quoteimg3{
+  background: url(../images/quote.png) no-repeat;
+  background-size: contain;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: -100px;
+  left: 250px;
+}
+.teengolamain{
+  display: flex;
+  flex-flow: space-around nowrap;
+  position: absolute;
+  top: 4100px;
+  left: 770px;
+}
+.teengolaek{
+  background:gray;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.teengolado{
+  
+  background:rgb(230, 91, 230);
+  position: relative;
+  left: 10px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.teengolateen{
+  background:gray;
+  position: relative;
+  left: 20px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.thirdpageimgtwo{
+  height: 40vh;
+  position: relative;
+  left: 1020px;
+  top: 50px;
+  width: 500px;
+}
+.thirdpageimgtwo .testimgtwo{
+   background: url(../images/testimonials-right-dec.png) no-repeat;
+   background-size: cover;
+   height: 40vh;
+   width: 600px;
+}
+.footerimg{
+  width: 250px;
+  height: 50vh;
+  position: relative;
+  top: 200px;
+}
+.footerimg .footerleftimg{
+  background: url(../images/footer-left-dec.png) no-repeat center;
+  background-size: contain;
+  height: 50vh;
+  width: 300px;
+  position: relative;
+  left: -20px;
+}
+.maps{
+  position: absolute;
+  top: 4300px;
+  left: 200px;
+}
+.maps iframe{
+  width: 850px;
+  border-radius: 15px;
+}
+.footer{
+  height: 60vh;
+  position: relative;
+  top: 0px;
+  bottom: 0px;
+}
+.footer .footerlastimg{
+  background: url(../images/footer-bg.png) no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 1615px;
+  height: 100vh;
+  position: relative;
+  top: -150px;
+}
+.lastdiv{
+  width: 400px;
+  height: 590px;
+  background: white;
+  position: absolute;
+  top: 4350px;
+  left: 1000px;
+  border-radius: 15px;    
+}
+.lastdiv:hover{
+  box-shadow: 0px 0px 10px black;
+}
+.lastdiv .littlecontonelast{
+  color: black;
+  font-size: 0.9rem;
+  position: absolute;
+  left: 30px;
+  top: 30px;
+  float: left;
+}
+.lastdiv .littlecontone .headingfsone h1{
+  font-weight: 1000;
+}
+.lastdiv .spanone{
+  color: rgb(230,91,230);
+}
+.forminp{
+  position: absolute;
+  left: 30px;
+  top: 200px;
+  line-height: 70px;
+}
+.forminp input{
+  border: none;
+  background: rgb(234, 242, 244);
+  width: 350px;
+  height: 40px
+}
+.forminp .specinp{
+  padding-left: 5px;
+  height: 40px;  
+  padding-bottom: 100px;
+}
+.forminp .btnlast{
+  border: none;
+  background: linear-gradient(to left ,rgb(230, 91, 230),orange );
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  width: 150px;
+  position: relative;
+  left: 205px;
+  top: 20px;
+}
+.icons {
+  position: relative;
+  top: -0px;
+  left: 500px;
+  width: 500px;
+  height: 7vh;
+  display: flex;
+  justify-content: space-around;
+}
+.icons .icon-1{
+  font-size: 4rem;
+  border-radius: 50%;
+}
+.icons .icon-2{
+  font-size: 4rem;
+  border-radius: 50%;
+}
+.icons .icon-3{
+  font-size: 4rem;
+  border-radius: 50%;
+}
+.icons .icon-4{
+  font-size: 4rem;
+  border-radius: 50%;
+}
+.icons .icon-5{
+  font-size: 4rem;
+  border-radius: 50%;
+}
+
+
+
+@media (max-width:786px){
+  .headerimg{
+    height: 60px;
+    background-size: contain;
+  }
+  .headerimg .logo{
+    width: 100px;
+    height: 40px;
+    top: 15px;
+    left: 60px;
+  }
+  .headerimg .navbar{
+    width: 400px;
+    font-size: 15px;
+    position: absolute;
+    top: 2px;
+    right: 40px;
+  }  
+ .content-1{
+  width: 400px;
+  position:relative;
+  top: 40px;
+  left: 60px;
+  font-size: 1.1rem;
+  }
+  .girlimg{
+    width: 250px;
+    height: 270px;
+    position: relative;
+    top: -220px;
+    left: 500px;
+  }
+  .services{
+    width: 400px;
+    position:relative;
+    top: -200px;
+    left: 190px;
+    font-size: 1.1rem;
+    text-align: center;   
+  }
+  .halfcircle{
+    width: 150px;
+    height: 300px;
+    position: relative;
+    top: -200px;
+  }
+  .cards{
+    width: 600px;
+    height: 500px;
+    font-size: 0.9rem;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 520px;
+    left: 150px;
+  }
+  .cards .cardone .cardoneimg{
+    width: 150px;
+    height: 100px;
+    position: relative;
+    left: 70px;
+  }
+  .cards .cardtwo .cardtwoimg{
+    width: 150px;
+    height: 100px;
+    position: relative;
+    left: 70px;
+  }
+  .cards .cardthree .cardthreeimg{
+    width: 150px;
+    height: 100px;
+    position: relative;
+    left: 30px;
+  }
+  .cards .cardthree{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+  }
+  .cards .cardfour{
+    text-align: center;
+    width: 210px;
+    height: 200px;
+  }
+  .cards .cardfour .cardfourimg{
+    width: 150px;
+    height: 100px;
+    position: relative;
+    left: 30px;
+  }
+  .teengola{
+    top: 1050px;
+    left: 410px;
+  }
+  .dogola{
+    width: 250px;
+    height: 150px;
+    position: relative;
+    top: 100px;
+    left: 20px;
+  }
+  .dogolatwo{
+    width: 250px;
+    height: 150px;
+    position: relative;
+    top: -50px;
+    left: 520px;
+  }
+  .contentpagetwo{
+    font-size: 1rem;
+    position: relative;
+    top: -50px;
+  }
+  .coursedisc{
+    width: 200px;
+    height: 300px;
+    font-size: 1rem;
+    position: absolute;
+    top: 1500px;
+    left: 20px;
+    
+  }
+  .coursedisc h3{
+    
+    border:3px groove rgba(230, 91, 230,0.5);
+    border-radius: 5px;
+    width: 150px;
+    height: 15px;
+    padding: 20px;
+    margin-top: 10px;
+    padding-top: 10px; 
+  }
+  .courseimg {
+    position: absolute;
+    top: 1513px;
+    left: 260px;
+    height: 60vh;
+    width: 230px;
+  }
+  .courseimg .courseimgg{
+    width: 230px;
+    height: 280px;
+  }
+  .price{
+    width: 80px;
+    position: absolute;
+    top: 1520px;
+    left: 260px;
+  } 
+  .price .price1{
+    padding: 2px;
+    margin: 10px;  
+  }
+  .mindisc{
+    position: absolute;
+    font-size: .9rem;
+    top: 1500px;
+    left: 530px;
+    width: 250px;
+  }
+  .headings h5{
+    width: 50px;
+    padding-left: 10px;
+  }
+  .headings .headingek{
+    border-right:1px solid black ;
+  }
+  .headings .headingdo{
+    border-right:1px solid black ;
+  }
+  .headings .headingteen{
+    display: inline-block;
+    width: 70px;
+    padding-left: 20px;
+  }
+  .headings .headingchar{
+     display: block;
+     margin-top: 0px;
+     padding-left: 0px;
+     width: 120px;
+  }
+  .gradientimg{
+    height: 80vh;
+    position: relative;
+    top: 300px;
+  }
+  .gradientimg .gradiimg{
+    background: url(../images/cta-bg.png) no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 790px;
+    height: 100vh;
+  }
+  .imgingradient{
+    height: 55vh;
+    width: 250px;
+    position: relative;
+    top: -400px;
+    left: 130px;
+  }
+  .imgingradient .imgten{
+    background: url(../images/cta-left-image.png) no-repeat;
+    background-size: cover;
+    height: 55vh;
+    width: 250px;
+  }
+  .gradientimg .mincontentone{
+    width: 300px;
+    position: absolute;
+    right: 190px;
+    left: 450px;
+    top: 100px;
+    font-size: 1.1rem;
+  
+    
+    
+  }
+  
+  .gradientimg .mincontentone .headedit{
+    font-size: 1.3rem;
+  }
+  
+  .gradientimg .mincontentone .btn2{
+    border: 0px;
+    padding: 15px;
+  } 
+  .thirdpageimg{
+    height: 40vh;
+    width: 300px;
+    position: relative;
+    top: 350px;
+  
+  }
+  .thirdpageimg .testimg{
+   background: url(../images/testimonials-left-dec.png) no-repeat;
+   background-size: cover;
+   height: 40vh;
+   width: 300px;
+  }
+  .thirdpage{
+    font-size: 1rem;
+    position: absolute;
+    text-align: center;
+    left: 200px;
+    top: 2350px;
+    width: 400px;
+  }
+  .teencontainer{
+    width: 790px;
+    height: 200px;
+    font-size: .9rem;
+    position: relative;
+    top: 400px;
+    left: 0px;
+    display: flex;
+    justify-content: space-around;
+  
+  }
+  .teencontainer .containerone{
+    color: black;
+    width: 250px;
+    height: 150px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+  }
+  .teencontainer .containerone .quoteimg1{
+    background: url(../images/quote.png) no-repeat;
+    background-size: contain;
+    height: 70px;
+    width: 60px;
+    position: relative;
+    top: -80px;
+    left: 180px;
+  }
+  .teencontainer .containertwo{
+    color: black;
+    width: 250px;
+    height: 150px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+  }
+  .teencontainer .containertwo .quoteimg2{
+    background: url(../images/quote.png) no-repeat;
+    background-size: contain;
+    height: 70px;
+    width: 60px;
+    position: relative;
+    top: -80px;
+    left: 180px;
+  }
+  .teencontainer .containerthree{
+    color: black;
+    width: 250px;
+    height: 150px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+  }
+  .teencontainer .containerthree .quoteimg3{
+    background: url(../images/quote.png) no-repeat;
+    background-size: contain;
+    height: 70px;
+    width: 60px;
+    position: relative;
+    top: -80px;
+    left: 180px;
+  }
+  .teengolamain{
+    display: flex;
+    flex-flow: space-around nowrap;
+    position: absolute;
+    top: 2700px;
+    left: 370px;
+  }
+  .thirdpageimgtwo{
+    height: 40vh;
+    width: 300px;
+    position: relative;
+    top: 320px;
+    left: 490px;
+  
+  }
+  .thirdpageimgtwo .testimgtwo{
+    background: url(../images/testimonials-right-dec.png) no-repeat;
+    background-size: contain;
+    height: 40vh;
+    width: 300px;
+  }
+  .footerimg{
+    width: 200px;
+    height: 50vh;
+    position: relative;
+    top: 400px;
+    left: -10px;
+  }
+  .footerimg .footerleftimg{
+    background-size: contain;
+    height: 50vh;
+    width: 200px;
+    position: relative;
+    left: -20px;
+  }
+  .maps{
+    position: absolute;
+    top: 2850px;
+    left: 100px;
+  
+  }
+  .maps iframe{
+    width: 350px;
+    height: 250px;
+    border-radius: 15px;
+  
+  }
+  .footer{
+    height: 80vh;
+    position: relative;
+    top: 120px;
+  }
+  .footer .footerlastimg{
+    width: 790px;
+    height: 80vh;
+    top:  100px;
+    
+  }
+  .lastdiv{
+    width: 380px;
+    height: 400px;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 2870px;
+    left: 400px;
+    border-radius: 15px;    
+  }
+  .lastdiv .littlecontonelast{
+    font-size: 0.8rem;
+    position: absolute;
+    left: 30px;
+    top: 10px;
+    float: left;
+  }
+  .forminp{
+    position: absolute;
+    left: 30px;
+    top: 150px;
+    line-height: 50px;
+  }
+  .forminp input{
+    border: none;
+    background: rgb(234, 242, 244);
+    width: 320px;
+    height: 40px
+  }
+  .forminp .specinp{
+    padding-left: 5px;
+    height: 40px;
+    padding-bottom: 50px;
+    
+  }
+  
+  .forminp .btnlast{
+    padding: 10px;
+    width: 150px;
+    position: relative;
+    left: 90px;
+    top: 0px;
+  }
+  .icons{
+    position: relative;
+    font-size: 2rem;
+    top: 130px;
+    left: 80px;
+    width: 300px;
+    height: 70px;
+  }
+  .icons .icon-1{
+    font-size: 2rem;
+    border-radius: 50%;
+  }
+  .icons .icon-2{
+    font-size: 2rem;
+    border-radius: 50%;
+  }
+  .icons .icon-3{
+    font-size: 2rem;
+    border-radius: 50%;
+  }
+  .icons .icon-4{
+    font-size: 2rem;
+    border-radius: 50%;
+  }
+  .icons .icon-5{
+    font-size: 2rem;
+    border-radius: 50%;
+  }
+  
+  
+}
+
+
+
+@media (max-width:668px){
+  .headerimg{
+    height: 50px;
+    background-size: contain;
+  }
+  .headerimg .logo{
+    top: 10px;
+  }
+  .headerimg .navbar{
+    width: 370px;
+    font-size: 16px;
+    position: absolute;
+    top: -3px;
+  }
+  .content-1{
+    width: 400px;
+    top: 30px;
+    left: 60px;
+    font-size: .9rem;
+  }
+  .girlimg{
+    width: 200px;
+    height: 230px;
+    position: relative;
+    top: -180px;
+    left: 450px;
+  }
+  .services{
+    width: 400px;
+    position:relative;
+    top: -170px;
+    left: 130px;
+    font-size: 0.9rem;
+    text-align: center;  
+  }
+  .halfcircle{
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top: -150px;
+  }
+  .cards{
+    width: 480px;
+    height: 250vh;
+    font-size: .9rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: absolute;
+    top: 450px;
+    left: 100px;
+  }
+  .cards .cardthree .cardthreeimg{
+    width: 150px;
+    height: 100px;
+    position: relative;
+    left: 75px;
+  }
+  .cards .cardthree{
+    text-align: center;
+    width: 300px;
+    height: 285px;
+  }
+  .cards .cardfour{
+    text-align: center;
+    width: 300px;
+    height: 285px;
+  }
+  .cards .cardfour .cardfourimg{
+    width: 150px;
+    height: 100px;
+    position: relative;
+    left: 75px;
+  }
+  .teengola{
+    top: 1600px;
+    left: 320px;
+  }
+  .dogola{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    top: 850px;
+    left: 20px;
+  }
+  .dogolatwo{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    top: 750px;
+    left: 450px;
+  }
+  .contentpagetwo{
+    font-size: 0.8rem;
+    position: relative;
+    top: 800px;
+  }
+  .coursedisc{
+    position: absolute;
+    top: 2000px;
+    left: 250px;
+  }
+  .courseimg {
+    position: absolute;
+    top: 2380px;
+    left: 210px;
+  }
+  .courseimg .courseimgg{
+    width: 270px;
+    height: 300px;
+  }
+  .price{
+    width: 80px;
+    position: absolute;
+    top: 2400px;
+    left: 220px;
+  }
+  .price .price1{
+    padding: 2px;
+    margin: 10px;
+  }
+  .mindisc{
+    position: absolute;
+    font-size: 1.1rem;
+    top: 2750px;
+    left: 100px;
+    width: 500px;
+  }
+  .mindisc .disctwo{
+    width: 500px;
+  }
+  .mindisc .headings{
+    width: 400px;
+  }
+  .headings h5{
+    width: 70px;
+    padding-left: 10px;
+  }
+  .headings .headingteen{
+    width: 100px;
+  }
+  .gradientimg{
+    height: 80vh;
+    position: relative;
+    top: 1850px;
+  }
+  .gradientimg .gradiimg{
+    background-size: contain;
+    background-position: center;
+    width: 660px;
+    height: 100vh;
+  }
+  .imgingradient{
+    height: 45vh;
+    width: 250px;
+    position: relative;
+    top: -370px;
+    left: 80px;
+  }
+  .imgingradient .imgten{
+    background-size: cover;
+    height: 45vh;
+    width: 250px;
+  }
+  .gradientimg .mincontentone{
+    width: 300px;
+    position: absolute;
+    right: 190px;
+    left: 370px;
+    top: 130px;
+  }
+  .gradientimg .mincontentone{
+    font-size: .8rem;
+  }
+  .thirdpageimg{
+    height: 30vh;
+    width: 300px;
+    position: relative;
+    top: 1870px;
+  
+  }
+  .thirdpageimg .testimg{
+   background-size: cover;
+   height: 30vh;
+   width: 300px;
+  }
+  .thirdpage{
+    font-size: 0.8rem;
+    position: absolute;
+    text-align: center;
+    left: 150px;
+    top: 3500px;
+    width: 400px;
+  }
+  .teencontainer{
+    width: 600px;
+    height: 200px;
+    font-size: .9rem;
+    position: relative;
+    top: 2000px;
+    left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+  }
+  .teencontainer .containerone{
+    color: black;
+    width: 250px;
+    height: 150px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+  }
+  .teencontainer .containerone .quoteimg1{
+    background-size: contain;
+    height: 70px;
+    width: 60px;
+    position: relative;
+    top: -80px;
+    left: 180px;
+  }
+  .teencontainer .containertwo{
+    color: black;
+    width: 250px;
+    height: 150px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+  }
+  .teencontainer .containertwo .quoteimg2{
+    background-size: contain;
+    height: 70px;
+    width: 60px;
+    position: relative;
+    top: -80px;
+    left: 180px;
+  }
+  .teencontainer .containerthree{
+    color: black;
+    width: 250px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 20px;
+  }
+  .teencontainer .containerthree .quoteimg3{
+    background-size: contain;
+    height: 70px;
+    width: 60px;
+    position: relative;
+    top: -80px;
+    left: 180px;
+  }
+  .teengolamain{
+    display: flex;
+    flex-flow: space-around nowrap;
+    position: absolute;
+    top: 4100px;
+    left: 330px;
+  }
+  .thirdpageimgtwo{
+    height: 30vh;
+    width: 250px;
+    position: relative;
+    top: 2150px;
+    left: 400px;
+  
+  }
+  .thirdpageimgtwo .testimgtwo{
+   height: 30vh;
+   width: 250px;
+   position: relative;
+   left: 15px;
+  }
+  .footerimg{
+    width: 200px;
+    height: 50vh;
+    position: relative;
+    top: 2300px;
+    left: -10px;
+  }
+  .maps{
+    position: relative;
+    top: 2040px;
+    left: 100px;
+    width: 500px;  
+  }
+  .maps iframe{
+    width: 530px;
+    height: 250px;
+    border-radius: 15px;
+  
+  }
+  .footer{
+    height: 80vh;
+    position: relative;
+    top: 2200px;
+  }
+  .footer .footerlastimg{
+    background-size: contain;
+    width: 660px;
+    height: 60vh;
+  }
+  .lastdiv{
+    width: 380px;
+    height: 400px;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 4600px;
+    left: 160px;
+  }
+  .lastdiv .littlecontonelast{
+    color: black;
+    font-size: 0.8rem;
+    position: absolute;
+    left: 30px;
+    top: 10px;
+    float: left;
+  }
+  .forminp{
+    position: absolute;
+    left: 30px;
+    top: 150px;
+    line-height: 50px;
+  }
+  .forminp input{
+    width: 320px;
+    height: 40px
+    
+    
+  }
+  .forminp .specinp{
+    padding-left: 5px;
+    height: 40px;
+    padding-bottom: 50px;
+  }
+  
+  .forminp .btnlast{
+    padding: 10px;
+    width: 150px;
+    position: relative;
+    left: 90px;
+    top: 0px;
+  }
+  .icons {
+    position: relative;
+    font-size: 1.5rem;
+    top: 2150px;
+    left: 200px;
+    width: 300px;
+    height: 0px;
+  }
+  .icons .icon-1{
+    font-size: 1.5rem;
+    border-radius: 50%;
+  }
+  .icons .icon-2{
+    font-size: 1.5rem;
+    border-radius: 50%;
+  }
+  .icons .icon-3{
+    font-size: 1.5rem;
+    border-radius: 50%;
+  }
+  .icons .icon-4{
+    font-size: 1.5rem;
+    border-radius: 50%;
+  }
+  .icons .icon-5{
+    font-size: 1.5rem;
+    border-radius: 50%;
+  }
+}
